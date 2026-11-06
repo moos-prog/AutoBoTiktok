@@ -1,0 +1,13 @@
+{
+  "name": "autobot-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tableau de bord AutoBot - gestion locale des comptes, commentaires et suivi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
